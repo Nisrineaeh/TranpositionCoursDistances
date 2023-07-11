@@ -1,1 +1,8 @@
-<p>planete works!</p>
+<div class="container">
+    <h1 class="title">Planètes de SpaceNow</h1>
+    <div class="container-plants">
+        <ul>
+            <li *ngFor="let planetes of planeteToDislpay">{{ planetes.nom }}</li>
+        </ul>
+    </div>
+</div>

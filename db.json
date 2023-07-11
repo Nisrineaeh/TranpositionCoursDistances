@@ -2,7 +2,7 @@
     {
       "id": 0,
       "nom": "Neptune",
-      "couleur dominante": "bleu",
+      "couleur": "bleu",
       "position": 8,
       "catégorie": "géante de glaces",
       "image": "https://cdn.pixabay.com/photo/2012/01/09/11/02/neptune-11629_640.jpg"
@@ -10,57 +10,57 @@
     {
       "id": 1,
       "nom": "Uranus",
-      "couleur dominante": "bleu/gris",
+      "couleur": "bleu/gris",
       "position": 7,
       "catégorie": "géante de glaces",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0077000/77390_010.jpg"
+      "image": "https://st2.depositphotos.com/1011081/10247/i/600/depositphotos_102477830-stock-photo-uranus-high-resolution-3d-images.jpg"
     },
     {
       "id": 3,
       "nom": "Saturne",
-      "couleur dominante": "marron",
+      "couleur": "marron",
       "position": 6,
       "catégorie": "géantes gazeuses",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910762_001.jpg"
+      "image": "https://www.numerama.com/wp-content/uploads/2022/07/jupiter-anneaux.jpg"
     },
     {
       "id": 4,
       "nom": "Jupiter",
-      "couleur dominante": "marron",
+      "couleur": "marron",
       "position": 5,
       "catégorie": "géantes gazeuses",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0801000/801427_001.jpg"
+      "image": "https://img.freepik.com/photos-premium/jupiter-dans-espace-illustration-3d_112293-451.jpg"
     },
     {
       "id": 5,
       "nom": "Mars",
-      "couleur dominante": "marron",
+      "couleur": "marron",
       "position": 4,
       "catégorie": "planète tellurique",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910744_001.jpg"
+      "image": "https://us.123rf.com/450wm/miro3d/miro3d1507/miro3d150700045/42421656-le-mars.jpg?ver=6"
     },
     {
       "id": 6,
       "nom": "Terre",
-      "couleur dominante": "bleu",
+      "couleur": "bleu",
       "position": 3,
       "catégorie": "planète tellurique",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910743_001.jpg"
+      "image": "https://st.depositphotos.com/2363887/2579/i/450/depositphotos_25791527-stock-photo-planet-earth-with-some-clouds.jpg"
     },
     {
       "id": 7,
       "nom": "Vénus",
-      "couleur dominante": "marron-rouge",
+      "couleur": "marron-rouge",
       "position": 2,
       "catégorie": "planète tellurique",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0063000/63158_005.jpg"
+      "image": "https://images.assetsdelivery.com/compings_v2/guardiano007/guardiano0071703/guardiano007170300032.jpg"
     },
     {
       "id": 8,
       "nom": "Mercure",
-      "couleur dominante": "marron",
+      "couleur": "gris-marron",
       "position": 1,
       "catégorie": "planète tellurique",
-      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910674_001.jpg"
+      "image": "https://st.depositphotos.com/1546708/3658/i/600/depositphotos_36588443-stock-photo-mercury.jpg"
     }
     ]}

@@ -1,0 +1,66 @@
+{"planetes": [
+    {
+      "id": 0,
+      "nom": "Neptune",
+      "couleur dominante": "bleu",
+      "position": 8,
+      "catégorie": "géante de glaces",
+      "image": "https://cdn.pixabay.com/photo/2012/01/09/11/02/neptune-11629_640.jpg"
+    },
+    {
+      "id": 1,
+      "nom": "Uranus",
+      "couleur dominante": "bleu/gris",
+      "position": 7,
+      "catégorie": "géante de glaces",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0077000/77390_010.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Saturne",
+      "couleur dominante": "marron",
+      "position": 6,
+      "catégorie": "géantes gazeuses",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910762_001.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "Jupiter",
+      "couleur dominante": "marron",
+      "position": 5,
+      "catégorie": "géantes gazeuses",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0801000/801427_001.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "Mars",
+      "couleur dominante": "marron",
+      "position": 4,
+      "catégorie": "planète tellurique",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910744_001.jpg"
+    },
+    {
+      "id": 6,
+      "nom": "Terre",
+      "couleur dominante": "bleu",
+      "position": 3,
+      "catégorie": "planète tellurique",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910743_001.jpg"
+    },
+    {
+      "id": 7,
+      "nom": "Vénus",
+      "couleur dominante": "marron-rouge",
+      "position": 2,
+      "catégorie": "planète tellurique",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0063000/63158_005.jpg"
+    },
+    {
+      "id": 8,
+      "nom": "Mercure",
+      "couleur dominante": "marron",
+      "position": 1,
+      "catégorie": "planète tellurique",
+      "image": "https://images.truffaut.com/media/catalog/product/cdn:///Articles/jpg/0910000/910674_001.jpg"
+    }
+    ]}

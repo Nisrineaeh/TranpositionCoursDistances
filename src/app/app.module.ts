@@ -10,6 +10,7 @@ import { VideoComponent } from './video/video.component';
 import { QuizComponent } from './quiz/quiz.component';
 import { ForumComponent } from './forum/forum.component';
 import { AccueilComponent } from './accueil/accueil.component';
+import { NotFoundComponent } from './not-found/not-found.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { AccueilComponent } from './accueil/accueil.component';
     QuizComponent,
     ForumComponent,
     AccueilComponent,
+    NotFoundComponent,
 
   ],
   imports: [
